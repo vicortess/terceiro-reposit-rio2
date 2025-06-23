@@ -24,7 +24,7 @@ function aumentaTamanho(){
 }
 
 const campoSenha= document.querySelector('#campo-senha');
-const letrasMaiuscula= 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+const letrasMaiuscula = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
 
 function geraSenha() {
